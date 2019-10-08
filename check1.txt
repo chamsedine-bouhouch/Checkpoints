@@ -1,0 +1,17 @@
+Note :
+Convert the file (index.js) inside this repositiory (https://github.com/GMCWeb/ES6-Checkpoint/) to ES6.
+
+
+Convert the function to arrow functions
+
+Change the quotes to template literal quotes
+
+Replace the for loops with array functions
+
+const for arrays and objects
+
+let for variables
+
+Hints: Open the console to see the result of the console.log() function.
+
+This checkpoint is locked
